@@ -8,6 +8,11 @@
 ## Etherum
 * 精通以太坊 [[中文](https://github.com/inoutcode/ethereum_book)] [[English](https://github.com/ethereumbook/ethereumbook)]
 
+## 智能合约
+
+### Solidity
+* Solidity开发文档 [English](https://solidity.readthedocs.io/en/latest/)
+
 ## Web3
 
 ## NFT
